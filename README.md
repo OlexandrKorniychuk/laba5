@@ -1,4 +1,4 @@
-"# laba5" 
+"# laba5 " 
 wwq
 eee
 wwe
